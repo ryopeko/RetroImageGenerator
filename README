@@ -1,2 +1,7 @@
 あなたの画像をレトロにします。
 http://retroimage.heroku.com
+
+使い方
+http://retroimage.heroku.com/sepia/?url=画像のURL
+
+とするとセピア調の画像が生成されます。
